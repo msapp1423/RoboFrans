@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/RoboFrans/static/css/main.0f0f8c44.chunk.css",
+    "main.js": "/RoboFrans/static/js/main.55c4ea2a.chunk.js",
+    "main.js.map": "/RoboFrans/static/js/main.55c4ea2a.chunk.js.map",
+    "runtime-main.js": "/RoboFrans/static/js/runtime-main.7a65936d.js",
+    "runtime-main.js.map": "/RoboFrans/static/js/runtime-main.7a65936d.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/RoboFrans/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.f9b2e496.chunk.js": "/RoboFrans/static/js/2.f9b2e496.chunk.js",
+    "static/js/2.f9b2e496.chunk.js.map": "/RoboFrans/static/js/2.f9b2e496.chunk.js.map",
+    "index.html": "/RoboFrans/index.html",
+    "precache-manifest.4600f30a00fe0f026cf2f001706b3814.js": "/RoboFrans/precache-manifest.4600f30a00fe0f026cf2f001706b3814.js",
+    "service-worker.js": "/RoboFrans/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/RoboFrans/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.0f0f8c44.chunk.css.map": "/RoboFrans/static/css/main.0f0f8c44.chunk.css.map",
+    "static/media/App.css": "/RoboFrans/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a65936d.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.f9b2e496.chunk.js",
+    "static/css/main.0f0f8c44.chunk.css",
+    "static/js/main.55c4ea2a.chunk.js"
+  ]
+}
